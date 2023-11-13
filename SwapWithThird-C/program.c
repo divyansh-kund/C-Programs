@@ -2,7 +2,7 @@
 
 int main() {
     // Declare variables
-    int num1, num2;
+    int num1, num2, temp;
 
     // Input two numbers
     printf("Enter the first number (num1): ");
@@ -11,10 +11,10 @@ int main() {
     printf("Enter the second number (num2): ");
     scanf("%d", &num2);
 
-    // Swap the numbers without using a third variable
-    num1 = num1 + num2;
-    num2 = num1 - num2;
-    num1 = num1 - num2;
+    // Swap the numbers using a third variable
+    temp = num1;
+    num1 = num2;
+    num2 = temp;
 
     // Display the swapped numbers
     printf("After swapping:\n");
