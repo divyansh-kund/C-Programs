@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Codingu/Github/My_C_Project/Arithmetic-C",
-      "program": "c:/Codingu/Github/My_C_Project/Arithmetic-C/build/Debug/outDebug",
+      "cwd": "c:/Codingu/Github/My_C_Project/Programs/CalcUsingSwitch-C",
+      "program": "c:/Codingu/Github/My_C_Project/Programs/CalcUsingSwitch-C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
